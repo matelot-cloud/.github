@@ -5,9 +5,9 @@
 <p align="center">Product security, DevSecOps and CRA compliance for the software you ship — <strong>self-hosted</strong>, one cell per organization, installed in your Kubernetes cluster from one Helm chart. SBOMs per release, vulnerabilities correlated with what actually runs, policies enforced as pipeline and deployment gates, keyless registry access, managed runners, and a signed evidence bundle per release for the Cyber Resilience Act.</p>
 
 <p align="center">
-  <a href="https://matelot-cloud.github.io/website/">Website</a> ·
-  <a href="https://matelot-cloud.github.io/website/docs/latest/">Documentation</a> ·
-  <a href="https://matelot-cloud.github.io/website/docs/latest/install.html">Install</a> ·
+  <a href="https://matelot.cloud/">Website</a> ·
+  <a href="https://matelot.cloud/docs/latest/">Documentation</a> ·
+  <a href="https://matelot.cloud/docs/latest/install.html">Install</a> ·
   <a href="https://github.com/matelot-cloud/helm-charts">Helm chart</a> ·
   <a href="https://github.com/matelot-cloud/matelot/releases">Releases</a> ·
   <a href="https://github.com/matelot-cloud/matelot/discussions">Discussions</a> ·
